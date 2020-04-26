@@ -1,0 +1,40 @@
+*
+{
+	background: #1111;
+	font-family:monospace;
+}
+
+form 
+{
+	border: 5px solid red;
+}
+
+p {
+  padding: 15px;
+}
+
+
+button
+{
+	background-color: red;
+	border-radius: 20px;
+
+
+}
+button hope
+{
+	filter: brightness(100%);
+}
+
+.ti
+{
+	text-align: center;
+	font-family: cursive;
+
+}
+
+table
+{
+	border-radius: 20px;
+}
+
